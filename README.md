@@ -8,7 +8,7 @@ This script and the repo owner are not associated with the soundmodem applicatio
 
 ## Usage
 
-- Download the script (`switch-soundmodem-configs.ps1`) and move it to your soundmodem install directory.
+- [Download](https://github.com/aosterwyk/soundmodem-config-switcher/releases/latest) the script (`switch-soundmodem-configs.ps1`) and move it to your soundmodem install directory.
 - Create and rename different soundmodem configs to `soundmodem.ini.<config>` (ex: `soundmodem.ini.digirig`, `soundmodem.ini.ic705`, etc.)
 - Run the script and select the config you want to use. 
     
